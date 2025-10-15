@@ -28,7 +28,8 @@ A simple full-stack password strength and breach checker built with **Node.js**,
    npm start
 
 
-3. Click Link that shoudl look like this -->http://localhost:3000
+3. Click Link that should look like this -->http://localhost:3000
+
 
 
 
