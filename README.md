@@ -22,7 +22,12 @@ A simple full-stack password strength and breach checker built with **Node.js**,
 
 
    npm install
+
+
+
    npm start
+
+
 
 
 
