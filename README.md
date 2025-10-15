@@ -19,8 +19,10 @@ A simple full-stack password strength and breach checker built with **Node.js**,
    git clone https://github.com/Voidcodes-ux/Password-Checker.git
    cd Password-Checker
 2. Run code in terminal
-   '''bash
+
+
    npm install
    npm start
+
 
 
